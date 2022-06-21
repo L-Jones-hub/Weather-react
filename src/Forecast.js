@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import axios from "axios";
 import Api from "./Api";
 import DateUtil from "./DateUtil";
-import "./Forecast.css";
+import "./Forecast1.css";
 import WeatherIcon from "./WeatherIcon";
 
 export default class Forecast extends Component {
